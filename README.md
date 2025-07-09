@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyceum-xs</h1>
-<h3 align="center">一名对人工智能充满热情的学生 from WuHan</h3>
+<h3 align="center">一名对人工智能充满热情的学生 from YunNan</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
