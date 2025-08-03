@@ -70,8 +70,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lyceum-xs&repo=OCR-Project&theme=radical&hide_border=true)](https://github.com/Lyceum-xs/OCR-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lyceum-xs&repo=AI-Learning&theme=radical&hide_border=true)](https://github.com/Lyceum-xs/AI-Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lyceum-xs&repo=OCR-Project&theme=radical&hide_border=true)](https://github.com/Lyceum-xs/Lyceum-xs.github.io)
 
 </div>
 
